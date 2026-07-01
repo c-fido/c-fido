@@ -73,13 +73,6 @@ Full-stack inventory Android app built with a 3-person team — Expo frontend, P
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=c-fido&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFB000&text_color=FFFFFF&icon_color=FFB000&count_private=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-fido&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFB000&text_color=FFFFFF" alt="Top Languages" height="165" />
-
-</div>
-
-<div align="center">
-
 `guest@c-fido:~$` [gfedolfi.dev](https://gfedolfi.dev) · [LinkedIn](https://www.linkedin.com/in/giancarlo-fedolfi-652026306/) · [fedolficarlo@gmail.com](mailto:fedolficarlo@gmail.com)
 
 </div>
