@@ -14,7 +14,7 @@
 └────────────────────────────────────────────────────┘
 </pre>
 
-### projects
+### Projects
 
 **[Remindr](https://github.com/c-fido/Remindr)** — `C++17 · Go · React · PostgreSQL · Docker`
 Cross-platform reminder daemon with offline-first cloud sync: Unix-socket IPC, a Go/JWT REST API on Railway, last-write-wins merge with soft-delete tombstones, React dashboard on Vercel, full CI across macOS/Linux.
@@ -28,16 +28,16 @@ Adaptive typing trainer using the SM-2 spaced-repetition algorithm to target you
 **Sports Warehouse** — `React Native · PHP · PostgreSQL · MongoDB`
 Full-stack inventory Android app built with a 3-person team — Expo frontend, PHP backend, MongoDB for catalog data, PostgreSQL for inventory queries.
 
-### research
+### Research
 
 - **Bioinformatics** (Wesleyan, Prof. Cohan / Prof. Krizanc) — pipeline through Bakta → Roary → VeryFastTree → EcoSim for gene presence/absence trees, cutting a manual workflow's runtime in half.
 - **Additive Manufacturing** (Wesleyan, Prof. Chang-Davidson) — graph-theory model of heat dispersion in DED metal printing, calibrated against printed test geometries.
 
-### experience
+### Experience
 
 **Software Engineer Intern, turingpoint GmbH** (Hamburg) — built a CVE classification tool routing Anthropic API calls via LiteLLM, cutting manual research time 85%; automated ingestion with the Brave Search API + BeautifulSoup; shipped Figma UI/UX for non-technical reviewers.
 
-### `$ tree stack/`
+### Stack
 
 **Languages**
 <p>
@@ -68,8 +68,6 @@ Full-stack inventory Android app built with a 3-person team — Expo frontend, P
 <img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=FFB000" />
 <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=FFB000" />
 </p>
-
-### `$ curl stats.c-fido/`
 
 <div align="center">
 
