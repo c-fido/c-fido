@@ -9,17 +9,14 @@ Terminal tamagotchi with an FSM-driven lifecycle, a genetics engine (heritable s
 **[typing_trainer](https://github.com/c-fido/typing_trainer)** — `C++ · Sockets`
 Adaptive typing trainer using the SM-2 spaced-repetition algorithm to target your weakest bigrams, with local networked multiplayer and ghost-race replays.
 
-**Sports Warehouse** — `React Native · PHP · PostgreSQL · MongoDB`
-Full-stack inventory Android app built with a 3-person team — Expo frontend, PHP backend, MongoDB for catalog data, PostgreSQL for inventory queries.
-
 ### Research
 
-- **Bioinformatics** (Wesleyan, Prof. Cohan / Prof. Krizanc) — pipeline through Bakta → Roary → VeryFastTree → EcoSim for gene presence/absence trees, cutting a manual workflow's runtime in half.
+- **Bioinformatics** (Wesleyan, Prof. Cohan / Prof. Krizanc) — pipeline through Bakta → Panaroo → VeryFastTree → EcoSim for gene presence/absence trees, cutting a manual workflow's time from days to hours. 1/50 research groups selected for the Claude for Science cohort. 
 - **Additive Manufacturing** (Wesleyan, Prof. Chang-Davidson) — graph-theory model of heat dispersion in DED metal printing, calibrated against printed test geometries.
 
 ### Experience
 
-**Software Engineer Intern, turingpoint GmbH** (Hamburg) — built a CVE classification tool routing Anthropic API calls via LiteLLM, cutting manual research time 85%; automated ingestion with the Brave Search API + BeautifulSoup; shipped Figma UI/UX for non-technical reviewers.
+**Software Engineer Intern, turingpoint GmbH** (Hamburg) — built a CVE classification tool routing Anthropic API calls via LiteLLM, cutting manual research time by 85%; automated ingestion with the Brave Search API + BeautifulSoup; shipped Figma UI/UX for non-technical reviewers.
 
 ### Stack
 
@@ -29,9 +26,7 @@ Full-stack inventory Android app built with a 3-person team — Expo frontend, P
 <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=FFB000" />
 <img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=FFB000" />
 <img src="https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=FFB000" />
-<img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=FFB000" />
 <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=FFB000" />
-<img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=csharp&logoColor=FFB000" />
 <img src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=FFB000" />
 <img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=FFB000" />
 <img src="https://img.shields.io/badge/GDScript-000000?style=flat-square&logo=godotengine&logoColor=FFB000" />
@@ -42,11 +37,8 @@ Full-stack inventory Android app built with a 3-person team — Expo frontend, P
 <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=FFB000" />
 <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=FFB000" />
 <img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=FFB000" />
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=FFB000" />
-<img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=FFB000" />
 <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=FFB000" />
 <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=githubactions&logoColor=FFB000" />
-<img src="https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=FFB000" />
 <img src="https://img.shields.io/badge/Railway-000000?style=flat-square&logo=railway&logoColor=FFB000" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=FFB000" />
 <img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=FFB000" />
