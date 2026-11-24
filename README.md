@@ -1,19 +1,3 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=22&pause=900&color=FFB000&background=0D0D0DFF&center=true&vCenter=true&width=650&lines=Giancarlo+Fedolfi;CS+%2B+German+%40+Wesleyan+%2727;Systems+code%2C+TUIs%2C+and+backend+plumbing;Currently%3A+genome+pipelines+%2B+heat-sim+research" alt="Giancarlo Fedolfi" />
-
-</div>
-
-<pre align="center">
-┌────────────────────────────────────────────────────┐
-│ guest@c-fido:~$ whoami                              │
-│ giancarlo fedolfi — B.A. Computer Science & German  │
-│ guest@c-fido:~$ cat interests.txt                   │
-│ systems programming · terminal UIs · backend infra  │
-│ bioinformatics pipelines · varsity track & field    │
-└────────────────────────────────────────────────────┘
-</pre>
-
 ### Projects
 
 **[Remindr](https://github.com/c-fido/Remindr)** — `C++17 · Go · React · PostgreSQL · Docker`
